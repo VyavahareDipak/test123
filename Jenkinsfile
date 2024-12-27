@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         PYTHON_PATH = 'C:/Users/HP/AppData/Local/Programs/Python/Python310;C:/Users/HP/AppData/Local/Programs/Python/Python310/Scripts'
-        SONAR_SCANNER_PATH = 'C:\Program Files\sonar-scanner-cli-6.2.1.4610-windows-x64\sonar-scanner-6.2.1.4610-windows-x64\bin'
+        SONAR_SCANNER_PATH = 'C:/Program Files/sonar-scanner-cli-6.2.1.4610-windows-x64/sonar-scanner-6.2.1.4610-windows-x64/bin'
     }
 
     stages {
